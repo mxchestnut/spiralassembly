@@ -1,0 +1,5 @@
+## Pages
+- [Admin Dashboard - Spiral Assembly](/admin): Manage proposals for Spiral Assembly.
+- [Login - Spiral Assembly](/login): No description available
+- [Members Dashboard - Spiral Assembly](/membersdashboard): Your personal space within the Spiral Assembly.
+- [Sign Up - Spiral Assembly](/signup): No description available
